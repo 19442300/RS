@@ -1,0 +1,9 @@
+numpyasnp
+prettytableaspt
+math
+prettytable
+matplotlib
+numpy
+time
+pickle
+pandas
